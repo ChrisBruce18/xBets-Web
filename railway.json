@@ -1,7 +1,7 @@
 {
   "$schema": "https://railway.com/railway.schema.json",
   "build": {
-    "builder": "node:20" 
+    "builder": "RAILPACK"
   },
   "deploy": {
     "runtime": "V2",
